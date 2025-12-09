@@ -1,3 +1,15 @@
+---
+title: "Karsten's BIG-TOE: Big, Inclusive, and General Theory Of Everything"
+description: An index of open papers outlining Karsten Wade's accumulated theories across open collaboration, people, principles, and practice.
+abstract: Karsten's BIG-TOE is a thought-container for the many small, partially-complete theories accumulated across the mindscape over the years. This document serves as an index to theories of open (collaboration, equity), theories of people, theories of principle, and theories of practice including CollabX and ContribX frameworks.
+publicationDate: 2025-01-01
+lastUpdated: 2025-10-01
+version: 0.2
+category: Theory Index
+tags: [BIG-TOE, Theory, Open Collaboration, CollabX, ContribX, Open Source]
+featured: true
+---
+
 # Karsten's BIG-TOE
 
 Copyright (C) 1970-2025 Karsten Graham Wade

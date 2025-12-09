@@ -1,3 +1,15 @@
+---
+title: "Framework: The Collaborative Experience (CollabX)"
+description: A guide to understanding, diagnosing, and improving the human-to-human dynamics of group endeavors.
+abstract: CollabX is the human-to-human element of collaboration—the subjective, qualitative experience an individual has when interacting with other people in pursuit of a common goal. This framework provides core principles, key dimensions, and practical patterns for building psychological safety, effective communication, and equitable governance in any collaborative setting.
+publicationDate: 2025-10-01
+lastUpdated: 2025-10-01
+version: 0.1-draft
+category: Collaboration Framework
+tags: [CollabX, Collaboration, Psychological Safety, Team Dynamics, Governance, Communication]
+featured: false
+---
+
 # **Framework: The Collaborative Experience (CollabX)**
 
 **A guide to understanding, diagnosing, and improving the human-to-human dynamics of group endeavors.**
@@ -14,9 +26,9 @@ This section defines CollabX as the *human-to-human* element of collaboration. I
 
 These are the foundational beliefs that underpin a healthy Collaborative Experience.
 
-* **Psychological Safety is Non-Negotiable:** Team members must feel safe to speak up, ask questions, and make mistakes without fear of reprisal or humiliation.  
-* **Collaboration is an Act of Empathy:** Understanding *why* someone is acting a certain way (their needs, feelings) is more effective than judging *what* they are doing.  
-* **Clarity Kindles Trust:** Ambiguity creates friction. Clear roles, responsibilities, and communication protocols build a foundation of trust.  
+* **Psychological Safety is Non-Negotiable:** Team members must feel safe to speak up, ask questions, and make mistakes without fear of reprisal or humiliation.
+* **Collaboration is an Act of Empathy:** Understanding *why* someone is acting a certain way (their needs, feelings) is more effective than judging *what* they are doing.
+* **Clarity Kindles Trust:** Ambiguity creates friction. Clear roles, responsibilities, and communication protocols build a foundation of trust.
 * **Belonging is a Prerequisite for Success:** Individuals who feel they belong, are treated equitably, and are valued contribute more effectively.
 
 **Prompt:** How does the NVC framework (Observations, Feelings, Needs, Requests) provide a practical toolkit for building psychological safety?
@@ -31,7 +43,7 @@ This section breaks down CollabX into observable patterns, many drawn from the s
 
 The medium and the message. This covers the *how*, *when*, and *where* of team communication.
 
-* **Patterns:** Synchronous vs. Asynchronous (Meetings, Chat), "Power With" vs. "Power Over" Language, Active Listening, Public vs. Private Channels.  
+* **Patterns:** Synchronous vs. Asynchronous (Meetings, Chat), "Power With" vs. "Power Over" Language, Active Listening, Public vs. Private Channels.
 * **Practices:** Using chat threads, establishing meeting-free days, adopting a Code of Conduct, "Communication Norms" (from OSW).
 
 **Prompt:** Analyze a team chat platform (like Slack) through a CollabX lens. When does it *help* human-to-human connection, and when does it *deter* it?
@@ -42,7 +54,7 @@ The medium and the message. This covers the *how*, *when*, and *where* of team c
 
 The "sense of belonging, fairness, and general happiness."
 
-* **Patterns:** Blameless Post-mortems, "Asking Questions" Culture, Vulnerability, Conflict Resolution.  
+* **Patterns:** Blameless Post-mortems, "Asking Questions" Culture, Vulnerability, Conflict Resolution.
 * **Practices:** Celebrating "glorious failures," having clear processes for conflict resolution, leaders modeling vulnerability (e.t., "I don't know the answer to that").
 
 **Prompt:** The OSW guide discusses "Community Manager Self-Care" and burnout. How is leader burnout a *symptom* of a systemic CollabX failure?
@@ -53,7 +65,7 @@ The "sense of belonging, fairness, and general happiness."
 
 The structure of human power and responsibility.
 
-* **Patterns:** Implicit vs. Explicit Roles, "Benevolent Dictator for Life (BDFL)" vs. Council, Decision-Making Processes, Recognition systems.  
+* **Patterns:** Implicit vs. Explicit Roles, "Benevolent Dictator for Life (BDFL)" vs. Council, Decision-Making Processes, Recognition systems.
 * **Practices:** Publishing a GOVERNANCE.md (from OSW), creating explicit role definitions, ensuring recognition is given for non-code contributions (a CHAOSS metric concept).
 
 **Prompt:** The OSW guide details various "Community Roles." How does making these roles *explicit* improve CollabX? What happens to CollabX when all power and recognition flow to just one "type" of contributor (e.g., the "10x coder")?
@@ -68,15 +80,15 @@ This section explicitly maps the software-centric patterns above to any human co
 
 **Prompt:** Take the pattern of a **Blameless Post-mortem** (Software).
 
-* **Mapping:** How does this apply to a **community theater** group after a show's opening night had technical failures? (e.g., focusing on *why* the lighting cue was missed, not *who* missed it).  
+* **Mapping:** How does this apply to a **community theater** group after a show's opening night had technical failures? (e.g., focusing on *why* the lighting cue was missed, not *who* missed it).
 * **Writing:** Write a paragraph describing what a "blameless" discussion would sound and feel like in that theater group, focusing on NVC principles.
 
 **Prompt:** Take the pattern of **Communication Norms** (Open Source/OSW).
 
-* **Mapping:** How does this apply to a **volunteer-run community garden**? (e.g., How are decisions made about planting? What's the protocol for "you picked *my* tomatoes" conflicts?).  
+* **Mapping:** How does this apply to a **volunteer-run community garden**? (e.g., How are decisions made about planting? What's the protocol for "you picked *my* tomatoes" conflicts?).
 * **Writing:** Describe two scenarios in the garden: one with poor CollabX (unspoken rules, passive-aggression) and one with high CollabX (clear guidelines, a process for mediation).
 
 **Prompt:** Take the pattern of **Psychological Safety**.
 
-* **Mapping:** How does this apply to a **writers' workshop**? What's the difference between "constructive criticism" and "jackal language" (NVC) in that context?  
+* **Mapping:** How does this apply to a **writers' workshop**? What's the difference between "constructive criticism" and "jackal language" (NVC) in that context?
 * **Writing:** What does a workshop facilitator *do* or *say* to establish a CollabX of high psychological safety where writers are willing to share unfinished work?
